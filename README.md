@@ -1,4 +1,4 @@
-# PHONE-SALES-DATA-ANALYTICS
+# PHONE SALES DATA ANALYSIS
 
 In the analysis, I sought to answer the following questions:
 
