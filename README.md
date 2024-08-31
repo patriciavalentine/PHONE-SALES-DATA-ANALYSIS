@@ -54,11 +54,13 @@ The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALY
 3. **KPI Calculation**: Measured key performance indicators such as total sales revenue, average selling price, and market share by brand.
 4. **Visualization**: Created visual representations of the data to make findings more interpretable and actionable.
 
-For a detailed step-by-step explanation of the whole process, check the Python code [here](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).
+*NOTE:*
+
+*For a detailed step-by-step explanation of the whole process, check the Python code [here](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).*
 
 ### Conclusion
-*The analysis provided a comprehensive understanding of key factors influencing phone sales, including model popularity, pricing strategies, the impact of color, and the effectiveness of discounts. These insights can guide strategic decisions in inventory management, pricing, and marketing, ultimately driving better sales performance and customer satisfaction.*
+The analysis provided a comprehensive understanding of key factors influencing phone sales, including model popularity, pricing strategies, the impact of color, and the effectiveness of discounts. These insights can guide strategic decisions in inventory management, pricing, and marketing, ultimately driving better sales performance and customer satisfaction.
 
-### THE END.
-#### Thank you!
+## THE END.
+### Thank you!
 💙
