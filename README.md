@@ -1,5 +1,5 @@
 # 📊 PHONE SALES DATA ANALYSIS
-This project is a comprehensive analysis of phone sales data aimed at uncovering insights into sales patterns, pricing, and customer preferences. The analysis was conducted using Python in Jupyter Notebooks, leveraging powerful libraries such as Pandas, Seaborn, and Matplotlib for data manipulation and visualization.
+This project is a comprehensive analysis of phone sales data aimed at uncovering insights into sales patterns, pricing, and customer preferences. The analysis was conducted using Python in Jupyter Notebooks, leveraging powerful libraries such as Pandas, NumPy, Seaborn, and Matplotlib for data manipulation and visualization.
 
 ## Project Overview
 The project focuses on analyzing various aspects of phone sales, including brand performance, model popularity, pricing trends, and the impact of discounts.
@@ -9,9 +9,10 @@ The data was cleaned and processed to handle missing values, and key metrics suc
 Visualizations were created to provide clear insights into the distribution of selling prices, the most popular phone colors, and the relationship between discounts and sales volumes.
 
 ## 🛠️ Tools and Libraries
-- **Python**: The main programming language used for analysis.
+- **Python**: The main programming language used for the analysis.
 - **Jupyter Notebooks**: For running and documenting the analysis process.
 - **Pandas**: For data cleaning, manipulation, and analysis.
+- **NumPy**: For numerical operations.
 - **Seaborn** & **Matplotlib**: For creating detailed visualizations.
 
 ### Data Source
