@@ -16,7 +16,7 @@ Visualizations were created to provide clear insights into the distribution of s
 - **Seaborn** & **Matplotlib**: For creating detailed visualizations.
 
 ### Data Source
-The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb) used in this project was obtained from **kaggle**.
+The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS/blob/main/Phone_Sales.csv) used in this project was obtained from **kaggle**.
 
 *It includes detailed information on various phone brands, models, their selling prices, discounts, customer ratings, and more.*
 
