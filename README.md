@@ -21,7 +21,7 @@ The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALY
 *It includes detailed information on various phone brands, models, their selling prices, discounts, customer ratings, and more.*
 
 ### 📂 Files
-1. [The Raw Data](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).
+1. [The Raw Data](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS/blob/main/Phone_Sales.csv).
 2. [The Cleaned Data](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Cleaned%20Phones%20Sales%20Data.csv).
 3. [The Project Notebook File](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).
 
