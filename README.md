@@ -7,6 +7,7 @@ The project focuses on analyzing various aspects of phone sales, including brand
 
 The data was cleaned and processed to handle missing values, and key metrics such as total sales revenue, average selling price, and market share by brand were calculated.
 
+
 Visualizations were created to provide clear insights into the distribution of selling prices, the most popular phone colors, and the relationship between discounts and sales volumes.
 
 ## 🛠️ Tools and Libraries
