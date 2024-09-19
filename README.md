@@ -2,6 +2,7 @@
 This project is a comprehensive analysis of phone sales data aimed at uncovering insights into sales patterns, pricing, and customer preferences.
 The analysis was conducted using Python in Jupyter Notebooks, leveraging powerful libraries such as Pandas, NumPy, Seaborn, and Matplotlib for data manipulation and visualization.
 
+
 ## Project Overview
 The project focuses on analyzing various aspects of phone sales, including brand performance, model popularity, pricing trends, and the impact of discounts.
 
