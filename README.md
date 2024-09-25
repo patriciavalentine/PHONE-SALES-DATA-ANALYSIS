@@ -47,16 +47,15 @@ The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALY
 1. Given the minimal correlation between discount percentages and sales volume, the **Brands should consider re-assessing their discount strategies**. Instead of relying heavily on discounts to boost sales, they should explore other promotional tactics that may have a more significant impact on consumer behavior.
 2. Since colors like Gold, Rose Gold, and Space Grey commanded higher prices, the **Brands should consider diversifying their color options** to include more unique and premium colors that can be marketed as exclusive. This could enhance consumer perception and potentially increase pricing strategies.
 
-## THE PROCESS
+## THE 📈 PROJECT STRUCTURE
 ![four-smartphones](https://github.com/user-attachments/assets/ee420fa7-ad30-41cd-8fb7-1a5f0c9656bb)
 
-## 📈 Project Structure
 1. **Data Cleaning**: Addressed missing values, ensured consistency, and prepared the data for analysis.
 2. **Exploratory Data Analysis (EDA)**: Analyzed the data to uncover key insights, trends, and patterns.
 3. **KPI Calculation**: Measured key performance indicators such as total sales revenue, average selling price, and market share by brand.
 4. **Visualization**: Created visual representations of the data to make findings more interpretable and actionable.
 
-*NOTE: For a detailed step-by-step explanation of the whole process, check the Python code [here](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).*
+*NOTE: For a detailed step-by-step explanation of the whole process, check the Notebook File [here](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).*
 
 ## Conclusion
 The analysis provided a comprehensive understanding of key factors influencing phone sales, including model popularity, pricing strategies, the impact of color, and the effectiveness of discounts. These insights can guide strategic decisions in inventory management, pricing, and marketing, ultimately driving better sales performance and customer satisfaction.
