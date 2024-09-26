@@ -57,7 +57,7 @@ The [phones dataset](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALY
 
 *NOTE: For a detailed step-by-step explanation of the whole process, check the Notebook File [here](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYTICS/blob/main/Phone%20Sales%20Data%20Analysis.ipynb).*
 
-## Conclusion
+## CONCLUSION
 The analysis provided a comprehensive understanding of key factors influencing phone sales, including model popularity, pricing strategies, the impact of color, and the effectiveness of discounts. These insights can guide strategic decisions in inventory management, pricing, and marketing, ultimately driving better sales performance and customer satisfaction.
 
 ## THE END.
